@@ -12,3 +12,7 @@ $ sudo apt-get install php7.0-dom php7.0-mbstring php7.0-zip php7.0-mysql php7.0
 ..and cakephp3  
 
 $ composer create-project --prefer-dist cakephp/app myapp  
+
+..and phpmyadmin intall 
+
+$ phpmyadmin-ctl install
