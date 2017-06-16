@@ -124,3 +124,8 @@ $ heroku run bash
 $ bin/cake migrations migrate
 $ bin/cake bake seed
 ```
+
+4. cURL
+```
+$ sudo apt-get install php-curl
+```
